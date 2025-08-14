@@ -13,9 +13,10 @@ Variables needed
 
 Output
     - Quote = (cost_price * margin) + (hours_spent * wage)
+        - For function please refer to caclulation.py file
 
     3 Croi_Meala_Honey_Transparent BG_alt.png
-    /Users/timstephens/git/quotingTool/3 Croi_Meala_Honey_Transparent BG_alt.png
+    /Users/timstephens/git/quotingTool/images/3 Croi_Meala_Honey_Transparent BG_alt.png
 '''
 def calculate_quote_gui():
     '''
@@ -42,7 +43,7 @@ root.title("Croi Meala Quoting Tool")
 root.configure(bg="light pink")
 
 # Load and display the logo
-image_path = "/Users/timstephens/git/quotingTool/3 Croi_Meala_Honey_Transparent BG_alt.png"
+image_path = "/Users/timstephens/git/quotingTool/images/3 Croi_Meala_Honey_Transparent BG_alt.png"
 image = Image.open(image_path)
 photo = ImageTk.PhotoImage(image)
 
