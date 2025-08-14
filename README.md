@@ -15,7 +15,7 @@
 * It takes in cost price, hours spent, wage, and margin, and then outputs the calculated quote.
 
 * Screenshot:
-![Alt text](/Users/timstephens/git/quotingTool/images/screenshot.png)
+![Alt text](/images/screenshot.png)
 
 
 # How to use the tool
@@ -29,7 +29,7 @@
 3. Navigate to the 'dist' folder and double-click the app to open up the GUI.
 
 # Testing
-    - The unit test is written using Pytest, to run the test simply run the following command in your terminal:
+- The unit test is written using Pytest, to run the test simply run the following command in your terminal:
     ```bash
     pytest
     ```
