@@ -15,7 +15,7 @@
 * It takes in cost price, hours spent, wage, and margin, and then outputs the calculated quote.
 
 * Screenshot:
-
+![Alt text](/Users/timstephens/git/quotingTool/images/screenshot.png)
 
 
 # How to use the tool
