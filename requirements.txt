@@ -1,0 +1,8 @@
+# GUI
+Pillow=11.3.0  # PIL fork for image handling
+
+# Testing
+pytest==8.4.1
+
+# Packaging
+pyinstaller==6.15.0
