@@ -14,7 +14,6 @@
 
 * It takes in cost price, hours spent, wage, and margin, and then displays the calculated quote to the user.
 
-* Screenshot:
 ![Alt text](/images/screenshot.png)
 
 
