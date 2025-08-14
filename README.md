@@ -10,9 +10,9 @@
     ```
 
 # About the tool
-* This is a simple quoting tool that I developed for my partner to use for her goldsmith business.
+* This is a simple quoting tool that I developed in 2022 for my partner to use for her jewellery business.
 
-* It takes in cost price, hours spent, wage, and margin, and then outputs the calculated quote.
+* It takes in cost price, hours spent, wage, and margin, and then displays the calculated quote to the user.
 
 * Screenshot:
 ![Alt text](/images/screenshot.png)
